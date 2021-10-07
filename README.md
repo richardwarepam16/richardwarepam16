@@ -1,5 +1,5 @@
 # Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Richard Warepam
-![alt text](https://github.com/richardwarepam16/richardwarepam16/blob/main/banner2.png)'
+![alt text](https://github.com/richardwarepam16/richardwarepam16/blob/main/headertwt2.png)'
 
 ### My Tech Toolbox 🧰 
 

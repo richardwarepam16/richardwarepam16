@@ -27,7 +27,7 @@
 * I'm looking to collaborate on Open source project for **Hacktoberfest** for the First time.
 
 
-[twitter](https://twitter.com/Coding_warepam)
+[twitter](https://twitter.com/Warepam_eth)
 .
 [Hashnode](https://hashnode.com/@richardwarepam16)
 .

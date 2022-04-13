@@ -20,7 +20,7 @@
 * My Primary Coding Language: **JavaScript** and **Python**
 * Passionate for learning & exploring new Tech. I write my learning on [Twitter](https://twitter.com/Coding_warepam)
 * I am working on building my **Online presence** and doing my bit to spread knowledge.
-* If you play BGMI - add me: NoSxProfessor
+* I enjoy working on Data Science and AI Projects.
 * I am currently learning [Blockchain Development](https://www.udacity.com/course/blockchain-developer-nanodegree--nd1309)( Solidity, Web3, Ethereum)
 * I’m currently working on my **Portfolio**. 
 * Ask me about anything, I'll be happy to help.

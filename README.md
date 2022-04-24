@@ -18,13 +18,11 @@
 </p>
 
 * My Primary Coding Language: **JavaScript** and **Python**
-* Passionate for learning & exploring new Tech. I write my learning on [Twitter](https://twitter.com/Coding_warepam)
+* Passionate for learning & exploring new Tech. I write my learning on [Twitter](https://twitter.com/Warepam_eth)
 * I am working on building my **Online presence** and doing my bit to spread knowledge.
 * I enjoy working on Data Science and AI Projects.
 * I am currently learning [Blockchain Development](https://www.udacity.com/course/blockchain-developer-nanodegree--nd1309)( Solidity, Web3, Ethereum)
-* I’m currently working on my **Portfolio**. 
 * Ask me about anything, I'll be happy to help.
-* I'm looking to collaborate on Open source project for **Hacktoberfest** for the First time.
 
 
 [twitter](https://twitter.com/Warepam_eth)

@@ -14,10 +14,14 @@
 <img src="https://developer-tech.com/wp-content/uploads/sites/3/2021/02/mongodb-atlas-google-cloud-partnership-nosql-databases-integrations-2.jpg" alt="MongoDB" height="40"/>
 <img src="https://www.oracle.com/a/tech/img/rc10-java-badge-3.png" alt="Java" height="40"/>
 <img src="https://user-images.githubusercontent.com/90201753/167630784-501a428e-542c-4838-9a20-2a2be1e96f26.png" alt="MySQL" height="40"/>
+<img src="https://user-images.githubusercontent.com/90201753/167631066-17e8915f-13f2-41c5-839f-92cf36f3a12d.png" alt="Tableau" height="40"/>
+<img src="https://user-images.githubusercontent.com/90201753/167631291-3327a5cc-bf92-49f3-bb56-2ada354197b4.png" alt="Spark" height="40"/>
+<img src="https://user-images.githubusercontent.com/90201753/167631545-cca75141-4a16-4c75-8806-b8634c6da0e3.png" alt="flask" height="40"/>
+<img src="https://user-images.githubusercontent.com/90201753/167631665-6b77ba8c-c2b7-4f34-b936-57855581739a.png" alt="Streamlit" height="40"/>
 </p>
 
 * Currently, I am working on Projects of **Data Science, ML and Deep Learning**.
-* I am still a college student as SPPU. I am an **Aspiring Data Scientist**.
+* I am still a college student at SPPU. I am an **Aspiring Data Scientist**.
 * I write blogs/articles on [Medium](https://warepam.medium.com/) with **2K+ followers**.
 * My Primary Coding Language: **JavaScript** and **Python**
 * Passionate for learning & exploring new Tech. I write my learning on [Twitter](https://twitter.com/Warepam_eth)

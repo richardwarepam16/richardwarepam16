@@ -13,6 +13,7 @@
 <img src="http://blog.addthiscdn.com/wp-content/uploads/2014/11/addthis-react-flux-javascript-scaling.png" alt="React.js" height="40"/>
 <img src="https://developer-tech.com/wp-content/uploads/sites/3/2021/02/mongodb-atlas-google-cloud-partnership-nosql-databases-integrations-2.jpg" alt="MongoDB" height="40"/>
 <img src="https://www.oracle.com/a/tech/img/rc10-java-badge-3.png" alt="Java" height="40"/>
+<img src="https://user-images.githubusercontent.com/90201753/167630784-501a428e-542c-4838-9a20-2a2be1e96f26.png" alt="MySQL" height="40"/>
 </p>
 
 * Currently, I am working on Projects of **Data Science, ML and Deep Learning**.
@@ -26,11 +27,11 @@
 * Ask me about anything, I'll be happy to help.
 
 
-[twitter](https://twitter.com/Warepam_eth)
+[Twitter](https://twitter.com/Warepam_eth)
 .
 [Hashnode](https://hashnode.com/@richardwarepam16)
 .
-[linkedin](https://www.linkedin.com/in/richard-warepam-3b817420b/)
+[LinkedIn](https://www.linkedin.com/in/richard-warepam-3b817420b/)
 .
 [Facebook](https://www.facebook.com/richard.warepam)
 

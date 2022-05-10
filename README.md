@@ -9,19 +9,20 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" height="40"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" height="40"/> 
 <img src="https://getbootstrap.com/docs/4.0/assets/brand/bootstrap-social-logo.png" alt="BootStrap" height="40"/> 
-<img src="https://miro.medium.com/max/800/0*g3ns8QALNBBH7CBA." alt="jQuery" height="40"/>
 <img src="https://www.javatpoint.com/js/nodejs/images/node-js-tutorial.png" alt="Node.js" height="40"/>
-<img src="https://fungsitama.web.id/wp-content/uploads/2020/08/0_cQTv5n6xV7opBBIB.png" alt="Express.js" height="40"/>
 <img src="http://blog.addthiscdn.com/wp-content/uploads/2014/11/addthis-react-flux-javascript-scaling.png" alt="React.js" height="40"/>
 <img src="https://developer-tech.com/wp-content/uploads/sites/3/2021/02/mongodb-atlas-google-cloud-partnership-nosql-databases-integrations-2.jpg" alt="MongoDB" height="40"/>
 <img src="https://www.oracle.com/a/tech/img/rc10-java-badge-3.png" alt="Java" height="40"/>
 </p>
 
+* Currently, I am working on Projects of **Data Science, ML and Deep Learning**.
+* I am still a college student as SPPU. I am an **Aspiring Data Scientist**.
+* I write blogs/articles on [Medium](https://warepam.medium.com/) with **2K+ followers**.
 * My Primary Coding Language: **JavaScript** and **Python**
 * Passionate for learning & exploring new Tech. I write my learning on [Twitter](https://twitter.com/Warepam_eth)
 * I am working on building my **Online presence** and doing my bit to spread knowledge.
-* I enjoy working on Data Science and AI Projects.
-* I am currently learning [Blockchain Development](https://www.udacity.com/course/blockchain-developer-nanodegree--nd1309)( Solidity, Web3, Ethereum)
+* I have started my journey with **Web Development** as a Developer.
+* I also worked on some **Web3 Project** by learning [Blockchain Development](https://www.udacity.com/course/blockchain-developer-nanodegree--nd1309)( Solidity, Web3, Ethereum)
 * Ask me about anything, I'll be happy to help.
 
 

@@ -1,42 +1,109 @@
-# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Richard Warepam
-![alt text](https://github.com/richardwarepam16/richardwarepam16/blob/main/twt.png)
+<h2 align="left">Hi 👋! My name is Warepam Richard Singh.</h2>
 
-### My Tech Toolbox 🧰 
+###
 
-<p align="left">
-<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="html5" height="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" height="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" height="40"/> 
-<img src="https://getbootstrap.com/docs/4.0/assets/brand/bootstrap-social-logo.png" alt="BootStrap" height="40"/> 
-<img src="https://www.javatpoint.com/js/nodejs/images/node-js-tutorial.png" alt="Node.js" height="40"/>
-<img src="http://blog.addthiscdn.com/wp-content/uploads/2014/11/addthis-react-flux-javascript-scaling.png" alt="React.js" height="40"/>
-<img src="https://developer-tech.com/wp-content/uploads/sites/3/2021/02/mongodb-atlas-google-cloud-partnership-nosql-databases-integrations-2.jpg" alt="MongoDB" height="40"/>
-<img src="https://www.oracle.com/a/tech/img/rc10-java-badge-3.png" alt="Java" height="40"/>
-<img src="https://user-images.githubusercontent.com/90201753/167630784-501a428e-542c-4838-9a20-2a2be1e96f26.png" alt="MySQL" height="40"/>
-<img src="https://user-images.githubusercontent.com/90201753/167631066-17e8915f-13f2-41c5-839f-92cf36f3a12d.png" alt="Tableau" height="40"/>
-<img src="https://user-images.githubusercontent.com/90201753/167631291-3327a5cc-bf92-49f3-bb56-2ada354197b4.png" alt="Spark" height="40"/>
-<img src="https://user-images.githubusercontent.com/90201753/167631545-cca75141-4a16-4c75-8806-b8634c6da0e3.png" alt="flask" height="40"/>
-<img src="https://user-images.githubusercontent.com/90201753/167631665-6b77ba8c-c2b7-4f34-b936-57855581739a.png" alt="Streamlit" height="40"/>
-</p>
+<h3 align="left">Introduction:</h3>
 
-* Currently, I am working on Projects of **Data Science, ML and Deep Learning**.
-* I am still a college student at SPPU. I am an **Aspiring Data Scientist**.
-* I write blogs/articles on [Medium](https://warepam.medium.com/) with **2K+ followers**.
-* My Primary Coding Language: **JavaScript** and **Python**
-* Passionate for learning & exploring new Tech. I write my learning on [Twitter](https://twitter.com/Warepam_eth)
-* I am working on building my **Online presence** and doing my bit to spread knowledge.
-* I have started my journey with **Web Development** as a Developer.
-* I also worked on some **Web3 Project** by learning [Blockchain Development](https://www.udacity.com/course/blockchain-developer-nanodegree--nd1309)( Solidity, Web3, Ethereum)
-* Ask me about anything, I'll be happy to help.
+###
 
+<p align="left">➤ Currently, I am working on Projects of Data Science, ML and Deep Learning.<br>➤ I am an Aspiring Data Scientist.<br>➤ I write blogs/articles on Medium with 2.7K followers.<br>➤ My Primary Coding Language: Python<br>➤ Passionate for learning & exploring new Technology.<br>➤ I am working on building my Online presence and doing my bit to spread knowledge.<br>➤ I have started my journey with Web Development as a Developer.<br>➤ I also worked on some Web3 Project by learning Blockchain Development( Solidity, Web3, Ethereum)<br>➤ I have also worked as "Data Science Intern" at GRABBNGO Pvt. Limited.<br><br>"Ask me about anything, I'll be happy to help."</p>
 
-[Twitter](https://twitter.com/Warepam_eth)
-.
-[Hashnode](https://hashnode.com/@richardwarepam16)
-.
-[LinkedIn](https://www.linkedin.com/in/richard-warepam-3b817420b/)
-.
-[Facebook](https://www.facebook.com/richard.warepam)
+###
 
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+<h3 align="left">Profile Statistics:</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=richardwarepam16&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=richardwarepam16&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h3 align="left">Technologies:</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="kaggle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="30" alt="apachekafka logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+</div>
+
+###
+
+<h3 align="left">Social Links:</h3>
+
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/warepam10" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://warepam.medium.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/richard-w-3b817420b" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/codeWarepam" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+  <a href="mailto:richardwarepam16@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/richardwarepam16" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<h3 align="left">My Medium Articles/Blogs:</h3>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=warepam&theme=radical" alt="Layout with last medium posts"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/richardwarepam16/count.svg?"  />
+</div>
+
+###

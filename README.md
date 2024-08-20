@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">➤ Currently, I am working on Projects of Data Science, ML and Deep Learning.<br>➤ I am an Aspiring Data Scientist.<br>➤ I write blogs/articles on Medium with 2.7K followers.<br>➤ My Primary Coding Language: Python<br>➤ Passionate for learning & exploring new Technology.<br>➤ I am working on building my Online presence and doing my bit to spread knowledge.<br>➤ I have started my journey with Web Development as a Developer.<br>➤ I also worked on some Web3 Project by learning Blockchain Development( Solidity, Web3, Ethereum)<br>➤ I have also worked as "Data Science Intern" at GRABBNGO Pvt. Limited.<br><br>"Ask me about anything, I'll be happy to help."</p>
+<p align="left">➤ My Primary Coding Language: Python<br>➤ Passionate for Data Science & exploring new Technology like GenAI, AWS.<br>➤ I am working on building my Online presence and doing my bit to spread knowledge.<br>➤ I have started my journey with Web Development as a Developer.<br>➤ I also worked on some Web3 Project by learning Blockchain Development( Solidity, Web3, Ethereum)<br>➤ I have also worked as "Data Science Intern" at GRABBNGO Pvt. Limited.<br><br>"Ask me about anything, I'll be happy to help."</p>
 
 ###
 

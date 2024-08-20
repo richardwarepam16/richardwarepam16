@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">➤ My Primary Coding Language: Python<br>➤ Passionate for Data Science & exploring new Technology like GenAI, AWS.<br>➤ I am working on building my Online presence and doing my bit to spread knowledge.<br>➤ I have started my journey with Web Development as a Developer.<br>➤ I also worked on some Web3 Project by learning Blockchain Development( Solidity, Web3, Ethereum)<br>➤ I have also worked as "Data Science Intern" at GRABBNGO Pvt. Limited.<br><br>"Ask me about anything, I'll be happy to help."</p>
+<p align="left">➤ My Primary Coding Language: Python<br>➤ Passionate for Data Science & exploring new Technology like GenAI, AWS.<br>➤ I am working on building my Online presence and doing my bit to spread knowledge.<br>➤ I have started my journey with Web Development as a Developer.<br>➤ I also worked on some Web3 Project by learning Blockchain Development( Solidity, Web3, Ethereum)<br><br>"Ask me about anything, I'll be happy to help."</p>
 
 ###
 
@@ -29,8 +29,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
   <img width="12" />
@@ -61,8 +59,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
 ###
 
 <div align="left">
@@ -90,15 +86,11 @@
 
 <br clear="both">
 
-<h3 align="left">My Medium Articles/Blogs:</h3>
+<h3 align="left">Profile View Count:</h3>
 
 ###
 
 <br clear="both">
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=warepam&theme=radical" alt="Layout with last medium posts"  />
-</div>
 
 ###
 

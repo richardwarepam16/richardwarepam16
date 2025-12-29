@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Richard Warepam</h1>
-<h3 align="center">AI & Cloud Engineer. Also, a Top Tech Writer (7k+ Followers, 300k+ Reads) - GenAI, Agentic AI & Multi‑Cloud (Azure/AWS/GCP)</h3>
+<h3 align="center">AI & Cloud Engineer. Also, a Top Tech Writer - GenAI, Agentic AI & Multi‑Cloud (Azure/AWS/GCP)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richardwarepam16&label=Profile%20views&color=0e75b6&style=flat" alt="richardwarepam16" /> </p>
 

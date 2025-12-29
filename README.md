@@ -19,6 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Agents &amp; RAGs: What Are Your CLIENTS Really Asking For?](https://medium.com/illumination/ai-agents-rags-what-are-your-clients-really-asking-for-9eff16461e77?source=rss-c42fc4b79e08------2)
+- [I Built a LinkedIn Content Engine in 5 Minutes Using MCP Server](https://learnaitoprofit.com/i-built-a-linkedin-content-engine-in-5-minutes-using-mcp-server-23ae8ae7a2be?source=rss-c42fc4b79e08------2)
+- [5 Tool Design Secrets That AI Agents Actually Love](https://pub.towardsai.net/5-tool-design-secrets-that-ai-agents-actually-love-0bd3d486dd5c?source=rss-c42fc4b79e08------2)
+- [How To Build an Automated Cloud Pipeline: Step-by-Step Guide](https://medium.com/illumination/how-to-build-an-automated-cloud-pipeline-step-by-step-guide-84d94678417a?source=rss-c42fc4b79e08------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

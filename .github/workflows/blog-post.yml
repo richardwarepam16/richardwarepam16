@@ -22,4 +22,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "4"
-          feed_list: "https://medium.com/feed/@warepam,https://www.richardwarepam.com/blog"
+          feed_list: "https://medium.com/feed/@warepam"

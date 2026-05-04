@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [I Built a FinOps Agent in 2 Weeks Using LangGraph, MCP &amp; Agent SKILLS](https://pub.towardsai.net/i-built-a-finops-agent-in-2-weeks-using-langgraph-mcp-agent-skills-eb11ac7e596d?source=rss-c42fc4b79e08------2)
 - [What Nobody Tells You About Building a Personal Knowledge Base With LLMs](https://pub.towardsai.net/what-nobody-tells-you-about-building-a-personal-knowledge-base-with-llms-283e944ac730?source=rss-c42fc4b79e08------2)
 - [AI Agents &amp; RAGs: What Are Your CLIENTS Really Asking For?](https://medium.com/illumination/ai-agents-rags-what-are-your-clients-really-asking-for-9eff16461e77?source=rss-c42fc4b79e08------2)
 - [I Built a LinkedIn Content Engine in 5 Minutes Using MCP Server](https://learnaitoprofit.com/i-built-a-linkedin-content-engine-in-5-minutes-using-mcp-server-23ae8ae7a2be?source=rss-c42fc4b79e08------2)
-- [5 Tool Design Secrets That AI Agents Actually Love](https://pub.towardsai.net/5-tool-design-secrets-that-ai-agents-actually-love-0bd3d486dd5c?source=rss-c42fc4b79e08------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

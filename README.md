@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Use Claude Design](https://pub.towardsai.net/how-to-use-claude-design-41ec2cbeb80e?source=rss-c42fc4b79e08------2)
 - [Start Prompt Engineering Here](https://medium.com/illumination/start-prompt-engineering-here-f5a2d037c458?source=rss-c42fc4b79e08------2)
 - [I Built a FinOps Agent in 2 Weeks Using LangGraph, MCP &amp; Agent SKILLS](https://pub.towardsai.net/i-built-a-finops-agent-in-2-weeks-using-langgraph-mcp-agent-skills-eb11ac7e596d?source=rss-c42fc4b79e08------2)
 - [What Nobody Tells You About Building a Personal Knowledge Base With LLMs](https://pub.towardsai.net/what-nobody-tells-you-about-building-a-personal-knowledge-base-with-llms-283e944ac730?source=rss-c42fc4b79e08------2)
-- [AI Agents &amp; RAGs: What Are Your CLIENTS Really Asking For?](https://medium.com/illumination/ai-agents-rags-what-are-your-clients-really-asking-for-9eff16461e77?source=rss-c42fc4b79e08------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

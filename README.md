@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Your AI Agent Is a Data Leak](https://pub.towardsai.net/your-ai-agent-is-a-data-leak-9fcefc675cd3?source=rss-c42fc4b79e08------2)
 - [Claude Logged Me Off. I Panicked.](https://medium.com/illumination/claude-logged-me-off-i-panicked-8e58fdc04b1d?source=rss-c42fc4b79e08------2)
 - [How to Use Claude Design](https://pub.towardsai.net/how-to-use-claude-design-41ec2cbeb80e?source=rss-c42fc4b79e08------2)
 - [Start Prompt Engineering Here](https://medium.com/illumination/start-prompt-engineering-here-f5a2d037c458?source=rss-c42fc4b79e08------2)
-- [I Built a FinOps Agent in 2 Weeks Using LangGraph, MCP &amp; Agent SKILLS](https://pub.towardsai.net/i-built-a-finops-agent-in-2-weeks-using-langgraph-mcp-agent-skills-eb11ac7e596d?source=rss-c42fc4b79e08------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Stop Building RAG Pipelines That Lie to You](https://pub.towardsai.net/stop-building-rag-pipelines-that-lie-to-you-a492f4f8ca05?source=rss-c42fc4b79e08------2)
 - [Your MCP Server Is Eating Your Context Window — Here’s How to Stop It](https://pub.towardsai.net/your-mcp-server-is-eating-your-context-window-heres-how-to-stop-it-4b9ffcd4564f?source=rss-c42fc4b79e08------2)
 - [MCP Just Killed Your App Integration Stack](https://medium.com/illumination/mcp-just-killed-your-app-integration-stack-dad318f4d370?source=rss-c42fc4b79e08------2)
 - [Why Most AI Agents Die in Production](https://pub.towardsai.net/why-most-ai-agents-die-in-production-2f93ddcf7386?source=rss-c42fc4b79e08------2)
-- [Nemotron 3 Nano Omni, Explained](https://pub.towardsai.net/nemotron-3-nano-omni-explained-46f898484a8b?source=rss-c42fc4b79e08------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
